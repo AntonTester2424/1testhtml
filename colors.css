@@ -1,0 +1,36 @@
+h1,
+h3,
+p {
+    text-align: center;
+
+}
+h1 {
+    color: darkred;
+    background-color: lemonchiffon;
+    border: 1px solid grey;
+}
+img[alt="Диван до и после Химчистки"] {
+    border: 1px solid grey;
+}
+.zagolovok {
+    color: crimson;
+    background-color: lemonchiffon;
+    border: 1px solid grey;
+}
+p {
+    font-size: 18px;
+}
+.menu {
+    text-decoration: none;
+    font-size: 24px;
+    border: 1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: black;
+}
+.spisok {
+    text-align: center;
+    list-style-type: none;
+}
